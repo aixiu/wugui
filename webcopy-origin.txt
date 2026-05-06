@@ -1,0 +1,1628 @@
+Uri: https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/gb.svg
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\gh\lipis\flag-icons\flags\4x3\gb.svg
+Content Type: image/svg+xml
+
+Uri: https://talents.turtlecraft.gg/
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\index.htm
+Content Type: text/html
+
+Uri: https://talents.turtlecraft.gg/arrows/down.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\arrows\down.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/arrows/left.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\arrows\left.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/arrows/right.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\arrows\right.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/arrows/rightdown.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\arrows\rightdown.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/bgs/anniversary.webp
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\bgs\anniversary.webp
+Content Type: image/webp
+
+Uri: https://talents.turtlecraft.gg/bgs/anomalus.webp
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\bgs\anomalus.webp
+Content Type: image/webp
+
+Uri: https://talents.turtlecraft.gg/druid
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\druid.html
+Content Type: text/html
+
+Uri: https://talents.turtlecraft.gg/hunter
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\hunter.html
+Content Type: text/html
+
+Uri: https://talents.turtlecraft.gg/icon.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icon.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_ambush.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_ambush.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_backstab.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_backstab.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_bullrush.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_bullrush.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_creature_cursed_02.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_creature_cursed_02.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_creature_poison_06.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_creature_poison_06.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_criticalstrike.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_criticalstrike.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_defend.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_defend.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_devour.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_devour.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_druid_bash.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_druid_bash.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_druid_berserk.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_druid_berserk.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_druid_demoralizingroar.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_druid_demoralizingroar.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_druid_disembowel.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_druid_disembowel.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_druid_eclipse.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_druid_eclipse.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_druid_ferociousbite.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_druid_ferociousbite.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_druid_galewinds.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_druid_galewinds.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_druid_manatree.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_druid_manatree.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_druid_owlkinfrenzy.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_druid_owlkinfrenzy.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_druid_rake.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_druid_rake.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_druid_ravage.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_druid_ravage.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_druid_treeoflife.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_druid_treeoflife.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_dualwield.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_dualwield.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_ensnare.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_ensnare.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_eyeoftheowl.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_eyeoftheowl.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_fiegndead.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_fiegndead.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_ghoulfrenzy.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_ghoulfrenzy.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_golemstormbolt.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_golemstormbolt.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_golemthunderclap.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_golemthunderclap.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_gouge.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_gouge.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_hibernation.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_hibernation.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_hunter_aspectofthemonkey.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_hunter_aspectofthemonkey.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_hunter_beastsoothe.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_hunter_beastsoothe.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_hunter_beasttaming.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_hunter_beasttaming.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_hunter_disarmingshot.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_hunter_disarmingshot.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_hunter_goforthethroat.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_hunter_goforthethroat.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_hunter_improvedtracking.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_hunter_improvedtracking.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_hunter_killcommand.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_hunter_killcommand.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_hunter_lockandload.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_hunter_lockandload.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_hunter_mendpet.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_hunter_mendpet.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_hunter_pet_bear.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_hunter_pet_bear.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_hunter_pet_cat.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_hunter_pet_cat.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_hunter_pet_hyena.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_hunter_pet_hyena.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_hunter_quickshot.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_hunter_quickshot.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_hunter_swiftstrike.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_hunter_swiftstrike.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_impalingbolt.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_impalingbolt.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_kick.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_kick.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_mage_firestarter.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_mage_firestarter.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_marksmanship.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_marksmanship.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_mount_jungletiger.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_mount_jungletiger.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_paladin_judgementblue.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_paladin_judgementblue.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_parry.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_parry.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_physical_taunt.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_physical_taunt.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_piercedamage.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_piercedamage.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_poisons.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_poisons.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_racial_avatar.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_racial_avatar.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_racial_bloodrage.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_racial_bloodrage.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_racial_cannibalize.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_racial_cannibalize.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_rogue_ambush.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_rogue_ambush.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_rogue_envelopingshadows.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_rogue_envelopingshadows.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_rogue_eviscerate.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_rogue_eviscerate.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_rogue_feigndeath.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_rogue_feigndeath.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_rogue_garrote.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_rogue_garrote.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_rogue_shadowstep.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_rogue_shadowstep.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_rogue_slicedice.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_rogue_slicedice.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_rogue_sprint.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_rogue_sprint.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_rogue_surpriseattack.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_rogue_surpriseattack.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_rogue_trip.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_rogue_trip.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_sap.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_sap.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_searingarrow.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_searingarrow.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_shaman_stormstrike.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_shaman_stormstrike.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_shaman_watershield.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_shaman_watershield.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_stealth.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_stealth.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_thunderbolt.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_thunderbolt.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_thunderclap.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_thunderclap.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_townwatch.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_townwatch.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_upgrademoonglaive.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_upgrademoonglaive.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_warlock_demonicpower.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_warlock_demonicpower.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_warlock_power_overwhelming.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_warlock_power_overwhelming.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_warrior_battleshout.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_warrior_battleshout.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_warrior_challange.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_warrior_challange.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_warrior_charge.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_warrior_charge.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_warrior_commandingshout.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_warrior_commandingshout.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_warrior_decisivestrike.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_warrior_decisivestrike.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_warrior_disarm.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_warrior_disarm.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_warrior_improveddisciplines.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_warrior_improveddisciplines.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_warrior_innerrage.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_warrior_innerrage.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_warrior_intervene.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_warrior_intervene.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_warrior_reprisal.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_warrior_reprisal.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_warrior_revenge.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_warrior_revenge.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_warrior_riposte.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_warrior_riposte.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_warrior_savageblow.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_warrior_savageblow.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_warrior_shieldbash.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_warrior_shieldbash.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_warrior_shieldmastery.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_warrior_shieldmastery.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_warrior_shieldwall.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_warrior_shieldwall.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_warrior_stalwartprotector.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_warrior_stalwartprotector.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_warrior_strengthofarms.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_warrior_strengthofarms.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_warrior_swordandboard.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_warrior_swordandboard.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_warrior_victoryrush.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_warrior_victoryrush.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_warrior_warcry.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_warrior_warcry.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_warrior_weaponmastery.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_warrior_weaponmastery.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/ability_whirlwind.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\ability_whirlwind.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/btnholyscriptures.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\btnholyscriptures.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/btnorbofdepths.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\btnorbofdepths.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/class_druid.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\class_druid.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/class_hunter.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\class_hunter.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/class_mage.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\class_mage.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/class_paladin.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\class_paladin.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/class_priest.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\class_priest.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/class_rogue.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\class_rogue.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/class_shaman.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\class_shaman.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/class_warlock.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\class_warlock.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/class_warrior.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\class_warrior.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/earthshaker_slam_16.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\earthshaker_slam_16.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/garrison_weaponupgrade.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\garrison_weaponupgrade.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_axe_09.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_axe_09.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_enchant_essenceeternallarge.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_enchant_essenceeternallarge.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_enchant_essencemagiclarge.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_enchant_essencemagiclarge.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_gauntlets_04.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_gauntlets_04.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_hammer_04.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_hammer_04.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_jewelry_talisman_fireice.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_jewelry_talisman_fireice.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_mace_01.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_mace_01.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_misc_bone_09.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_misc_bone_09.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_misc_book_06.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_misc_book_06.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_misc_book_07.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_misc_book_07.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_misc_book_08.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_misc_book_08.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_misc_gem_emerald_01.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_misc_gem_emerald_01.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_misc_herb_02.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_misc_herb_02.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_misc_herb_16.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_misc_herb_16.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_misc_key_03.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_misc_key_03.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_misc_map_01.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_misc_map_01.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_misc_monsterclaw_03.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_misc_monsterclaw_03.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_misc_monsterclaw_04.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_misc_monsterclaw_04.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_misc_pelt_bear_03.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_misc_pelt_bear_03.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_misc_quiver_03.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_misc_quiver_03.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_relics_idolofhealth.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_relics_idolofhealth.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_relics_idolofrejuvenation.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_relics_idolofrejuvenation.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_shield_05.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_shield_05.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_shield_06.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_shield_06.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_shoulder_30.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_shoulder_30.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_spear_07.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_spear_07.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_staff_01.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_staff_01.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_sword_02.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_sword_02.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_sword_05.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_sword_05.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_sword_17.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_sword_17.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_sword_20.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_sword_20.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_sword_27.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_sword_27.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_sword_31.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_sword_31.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_sword_48.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_sword_48.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_throwingknife_01.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_throwingknife_01.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_throwingknife_05.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_throwingknife_05.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_throwingknife_06.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_throwingknife_06.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_wand_01.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_wand_01.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_weapon_rifle_06.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_weapon_rifle_06.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_weapon_shortblade_05.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_weapon_shortblade_05.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/inv_weapon_shortblade_14.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\inv_weapon_shortblade_14.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/master_strike_1.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\master_strike_1.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/racial_troll_berserk.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\racial_troll_berserk.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_arcane_blast.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_arcane_blast.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_arcane_blink.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_arcane_blink.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_arcane_manatap.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_arcane_manatap.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_arcane_portaldarnassus.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_arcane_portaldarnassus.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_arcane_starfire.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_arcane_starfire.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_cloaked_in_shadows_2.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_cloaked_in_shadows_2.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_coordinated_assault_1.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_coordinated_assault_1.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_double_dose_3.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_double_dose_3.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_fire_elementaldevastation.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_fire_elementaldevastation.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_fire_enchantweapon.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_fire_enchantweapon.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_fire_fire.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_fire_fire.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_fire_firearmor.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_fire_firearmor.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_fire_fireball.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_fire_fireball.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_fire_fireball02.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_fire_fireball02.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_fire_flamebolt.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_fire_flamebolt.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_fire_flameshock.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_fire_flameshock.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_fire_flametounge.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_fire_flametounge.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_fire_flare.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_fire_flare.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_fire_frostresistancetotem.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_fire_frostresistancetotem.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_fire_immolation.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_fire_immolation.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_fire_incinerate.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_fire_incinerate.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_fire_lavaspawn.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_fire_lavaspawn.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_fire_masterofelements.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_fire_masterofelements.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_fire_meteorstorm.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_fire_meteorstorm.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_fire_sealoffire.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_fire_sealoffire.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_fire_selfdestruct.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_fire_selfdestruct.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_fire_soulburn.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_fire_soulburn.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_fire_volcano.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_fire_volcano.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_fire_windsofwoe.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_fire_windsofwoe.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_frost_chillingblast.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_frost_chillingblast.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_frost_freezingbreath.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_frost_freezingbreath.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_frost_frost.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_frost_frost.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_frost_frostarmor.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_frost_frostarmor.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_frost_frostblast.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_frost_frostblast.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_frost_frostbolt.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_frost_frostbolt.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_frost_frostbolt02.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_frost_frostbolt02.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_frost_frostshock.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_frost_frostshock.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_frost_frostward.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_frost_frostward.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_frost_glacier.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_frost_glacier.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_frost_iceshard.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_frost_iceshard.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_frost_iceshock.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_frost_iceshock.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_frost_icestorm.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_frost_icestorm.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_frost_manarecharge.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_frost_manarecharge.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_frost_stun.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_frost_stun.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_frost_windwalkon.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_frost_windwalkon.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_frost_wisp.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_frost_wisp.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_frost_wizardmark.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_frost_wizardmark.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_ashestoashes.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_ashestoashes.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_auramastery.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_auramastery.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_auraoflight.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_auraoflight.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_blessedrecovery.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_blessedrecovery.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_blessingofagility.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_blessingofagility.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_blessingofprotection.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_blessingofprotection.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_blessingofstamina.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_blessingofstamina.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_blessingofstrength.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_blessingofstrength.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_crusaderstrike.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_crusaderstrike.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_devotion.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_devotion.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_devotionaura.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_devotionaura.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_dispelmagic.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_dispelmagic.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_elunesgrace.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_elunesgrace.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_excorcism_02.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_excorcism_02.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_eyeforaneye.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_eyeforaneye.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_greaterheal.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_greaterheal.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_heal.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_heal.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_heal02.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_heal02.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_healingfocus.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_healingfocus.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_holybolt.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_holybolt.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_holynova.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_holynova.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_holysmite.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_holysmite.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_innerfire.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_innerfire.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_layonhands.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_layonhands.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_magicalsentry.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_magicalsentry.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_mindsooth.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_mindsooth.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_mindvision.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_mindvision.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_persuitofjustice.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_persuitofjustice.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_power.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_power.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_powerwordshield.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_powerwordshield.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_prayerofhealing.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_prayerofhealing.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_purify.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_purify.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_redemption.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_redemption.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_renew.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_renew.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_restoration.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_restoration.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_resurrection.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_resurrection.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_retribution.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_retribution.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_retributionaura.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_retributionaura.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_revivechampion.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_revivechampion.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_righteousfury.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_righteousfury.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_sealofblood.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_sealofblood.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_sealoffury.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_sealoffury.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_sealofmight.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_sealofmight.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_sealofprotection.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_sealofprotection.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_sealofsalvation.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_sealofsalvation.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_sealofwrath.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_sealofwrath.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_searinglight.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_searinglight.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_searinglightpriest.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_searinglightpriest.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_spellwarding.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_spellwarding.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_spiritualguidence.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_spiritualguidence.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_summonlightwell.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_summonlightwell.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_surgeoflight.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_surgeoflight.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_unyieldingfaith.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_unyieldingfaith.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_vindication.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_vindication.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_holy_wordfortitude.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_holy_wordfortitude.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_hunter_exoticmunitions_poisoned.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_hunter_exoticmunitions_poisoned.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_ice_lament.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_ice_lament.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_ice_magicdamage.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_ice_magicdamage.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_lacerate_1c.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_lacerate_1c.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_lightning_lightningbolt01.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_lightning_lightningbolt01.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_mage_focusingcrystal.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_mage_focusingcrystal.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_magic_lesserinvisibilty.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_magic_lesserinvisibilty.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_magic_magearmor.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_magic_magearmor.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_abolishmagic.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_abolishmagic.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_agitatingtotem.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_agitatingtotem.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_ancestralguardian.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_ancestralguardian.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_astralrecalgroup.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_astralrecalgroup.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_bloodlust.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_bloodlust.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_callstorm.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_callstorm.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_crystalball.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_crystalball.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_earthbindtotem.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_earthbindtotem.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_earthquake.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_earthquake.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_elementalabsorption.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_elementalabsorption.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_enchantarmor.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_enchantarmor.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_forceofnature.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_forceofnature.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_healingtouch.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_healingtouch.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_healingwavegreater.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_healingwavegreater.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_healingway.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_healingway.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_invisibilty.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_invisibilty.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_lightning.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_lightning.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_lightningshield.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_lightningshield.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_magicimmunity.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_magicimmunity.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_manaregentotem.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_manaregentotem.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_mirrorimage.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_mirrorimage.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_moonglow.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_moonglow.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_naturesblessing.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_naturesblessing.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_natureswrath.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_natureswrath.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_naturetouchgrow.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_naturetouchgrow.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_nullward.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_nullward.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_protectionformnature.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_protectionformnature.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_purge.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_purge.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_ravenform.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_ravenform.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_regenerate.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_regenerate.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_regeneration.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_regeneration.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_reincarnation.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_reincarnation.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_removecurse.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_removecurse.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_resistnature.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_resistnature.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_sentinal.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_sentinal.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_sleep.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_sleep.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_slow.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_slow.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_slowingtotem.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_slowingtotem.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_spiritarmor.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_spiritarmor.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_spiritwolf.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_spiritwolf.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_starfall.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_starfall.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_stoneclawtotem.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_stoneclawtotem.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_stormreach.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_stormreach.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_stranglevines.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_stranglevines.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_thunderclap.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_thunderclap.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_tranquility.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_tranquility.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_undyingstrength.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_undyingstrength.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_unyeildingstamina.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_unyeildingstamina.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_wispheal.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_wispheal.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_nature_wispsplode.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_nature_wispsplode.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_abominationexplosion.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_abominationexplosion.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_antishadow.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_antishadow.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_blackplague.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_blackplague.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_bloodboil.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_bloodboil.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_burningspirit.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_burningspirit.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_callofbone.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_callofbone.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_chilltouch.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_chilltouch.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_corpseexplode.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_corpseexplode.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_curseofachimonde.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_curseofachimonde.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_curseofmannoroth.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_curseofmannoroth.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_curseofsargeras.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_curseofsargeras.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_curseoftounges.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_curseoftounges.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_darkritual.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_darkritual.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_deathpact.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_deathpact.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_deathscream.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_deathscream.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_detectinvisibility.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_detectinvisibility.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_detectlesserinvisibility.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_detectlesserinvisibility.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_fingerofdeath.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_fingerofdeath.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_fumble.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_fumble.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_gathershadows.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_gathershadows.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_grimward.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_grimward.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_haunting.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_haunting.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_impphaseshift.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_impphaseshift.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_improvedvampiricembrace.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_improvedvampiricembrace.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_lifedrain.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_lifedrain.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_lifedrain02.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_lifedrain02.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_manaburn.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_manaburn.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_metamorphosis.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_metamorphosis.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_of_death_3b.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_of_death_3b.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_possession.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_possession.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_psychicscream.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_psychicscream.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_ragingscream.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_ragingscream.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_requiem.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_requiem.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_scourgebuild.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_scourgebuild.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_shadetruesight.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_shadetruesight.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_shadowbolt.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_shadowbolt.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_shadowform.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_shadowform.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_shadowpact.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_shadowpact.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_shadowward.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_shadowward.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_shadowworddominate.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_shadowworddominate.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_shadowwordpain.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_shadowwordpain.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_siphonmana.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_siphonmana.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_soulleech.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_soulleech.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_soulleech_1.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_soulleech_1.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_summonimp.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_summonimp.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_summonsuccubus.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_summonsuccubus.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_teleport.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_teleport.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_twilight.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_twilight.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_unholyfrenzy.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_unholyfrenzy.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_unsummonbuilding.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_unsummonbuilding.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shadow_vampiricaura.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shadow_vampiricaura.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shaman_spiritlink.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shaman_spiritlink.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_shaman_tidalwaves.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_shaman_tidalwaves.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/spell_smoke_bomb_5.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\spell_smoke_bomb_5.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/trade_archaeology_highbornesoulmirror.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\trade_archaeology_highbornesoulmirror.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icons/trade_survival.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icons\trade_survival.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/icon_hover.png
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\icon_hover.png
+Content Type: image/png
+
+Uri: https://talents.turtlecraft.gg/mage
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\mage.html
+Content Type: text/html
+
+Uri: https://talents.turtlecraft.gg/paladin
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\paladin.html
+Content Type: text/html
+
+Uri: https://talents.turtlecraft.gg/priest
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\priest.html
+Content Type: text/html
+
+Uri: https://talents.turtlecraft.gg/rogue
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\rogue.html
+Content Type: text/html
+
+Uri: https://talents.turtlecraft.gg/shaman
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\shaman.html
+Content Type: text/html
+
+Uri: https://talents.turtlecraft.gg/warlock
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\warlock.html
+Content Type: text/html
+
+Uri: https://talents.turtlecraft.gg/warrior
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\warrior.html
+Content Type: text/html
+
+Uri: https://talents.turtlecraft.gg/_next/static/chunks/289-5cb1db75c0040be2.js
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\_next\static\chunks\289-5cb1db75c0040be2.js
+Content Type: application/javascript
+
+Uri: https://talents.turtlecraft.gg/_next/static/chunks/294-1a3969672cb019e5.js
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\_next\static\chunks\294-1a3969672cb019e5.js
+Content Type: application/javascript
+
+Uri: https://talents.turtlecraft.gg/_next/static/chunks/568-0de3ec61eaff1020.js
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\_next\static\chunks\568-0de3ec61eaff1020.js
+Content Type: application/javascript
+
+Uri: https://talents.turtlecraft.gg/_next/static/chunks/87c73c54-be837ab1b1db7a80.js
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\_next\static\chunks\87c73c54-be837ab1b1db7a80.js
+Content Type: application/javascript
+
+Uri: https://talents.turtlecraft.gg/_next/static/chunks/891cff7f-58b6c74962a6ae27.js
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\_next\static\chunks\891cff7f-58b6c74962a6ae27.js
+Content Type: application/javascript
+
+Uri: https://talents.turtlecraft.gg/_next/static/chunks/907-283604c8054f6983.js
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\_next\static\chunks\907-283604c8054f6983.js
+Content Type: application/javascript
+
+Uri: https://talents.turtlecraft.gg/_next/static/chunks/968-0112fed5c206d4b8.js
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\_next\static\chunks\968-0112fed5c206d4b8.js
+Content Type: application/javascript
+
+Uri: https://talents.turtlecraft.gg/_next/static/chunks/app/[locale]/[class]/page-ce9cdb06bf9c66c9.js
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\_next\static\chunks\app\[locale]\[class]\page-ce9cdb06bf9c66c9.js
+Content Type: application/javascript
+
+Uri: https://talents.turtlecraft.gg/_next/static/chunks/app/[locale]/error-9e53f4a8754795fa.js
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\_next\static\chunks\app\[locale]\error-9e53f4a8754795fa.js
+Content Type: application/javascript
+
+Uri: https://talents.turtlecraft.gg/_next/static/chunks/app/[locale]/page-c8dbb22c4287e627.js
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\_next\static\chunks\app\[locale]\page-c8dbb22c4287e627.js
+Content Type: application/javascript
+
+Uri: https://talents.turtlecraft.gg/_next/static/chunks/main-app-b22f8eb0ce7648a3.js
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\_next\static\chunks\main-app-b22f8eb0ce7648a3.js
+Content Type: application/javascript
+
+Uri: https://talents.turtlecraft.gg/_next/static/chunks/polyfills-42372ed130431b0a.js
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://talents.turtlecraft.gg/_next/static/chunks/webpack-24ed39f7fdf6a97a.js
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\_next\static\chunks\webpack-24ed39f7fdf6a97a.js
+Content Type: application/javascript
+
+Uri: https://talents.turtlecraft.gg/_next/static/css/f60c7d77082be0b0.css
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\_next\static\css\f60c7d77082be0b0.css
+Content Type: text/css
+
+Uri: https://talents.turtlecraft.gg/_next/static/media/0d5af134000e2351-s.p.otf
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\_next\static\media\0d5af134000e2351-s.p.otf
+Content Type: font/otf
+
+Uri: https://talents.turtlecraft.gg/_next/static/media/5d9fe33e25fef294-s.p.otf
+File Name: C:\Users\Ynxiu\Desktop\仿站\talents.turtlecraft.gg\_next\static\media\5d9fe33e25fef294-s.p.otf
+Content Type: font/otf
+
