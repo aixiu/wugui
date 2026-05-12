@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preload" as="image" href="bgs/anniversary.webp" fetchpriority="high">
+    <link rel="stylesheet" href="_next/static/css/f60c7d77082be0b0.css">
+    <title>Druid - Talent Calculator</title>
+    <link rel="icon" href="icon.png">
+    <style>
+        .talent-btn {
+            cursor: pointer;
+            transition: filter 0.1s;
+            position: relative;
+        }
+
+        .talent-btn:hover {
+            filter: brightness(1.1);
+        }
+
+        .talent-points {
+            font-size: 12px;
+            font-weight: bold;
+        }
+
+        .tree-container {
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 8px;
+            padding: 12px;
+            position: relative;
+        }
+
+        .arrow-line {
+            position: absolute;
+            background-repeat: no-repeat;
+            background-size: contain;
+            pointer-events: none;
+            z-index: 5;
+        }
+
+        .grid-cols-4 {
+            display: grid;
+            grid-template-columns: repeat(4, minmax(0, 1fr));
+            gap: 1.5rem;
+            position: relative;
+        }
+
+        .talent-slot {
+            display: flex;
+            justify-content: center;
+            position: relative;
+        }
+
+        /* 右键菜单提示 */
+        .talent-btn {
+            user-select: none;
+        }
+    </style>
+</head>
+
+<body
+    class="__variable_b17ceb __variable_cd96b8 bg-dark-gray flex min-h-dvh flex-col items-stretch overflow-auto overflow-x-hidden">
+
+    <!-- 背景图片 -->
+    <img src="bgs/anniversary.webp" loading="eager" fetchpriority="high" decoding="async" alt="Background"
+        class="pointer-events-none fixed inset-0 -z-10 w-full min-w-5xl transition-all"
+        style="-webkit-mask-image:linear-gradient(180deg, rgba(0,0,0,1), rgba(0,0,0,0));opacity:0.33;transition-duration:2000ms">
+
+    <!-- 页眉 -->
+    <header class="flex max-w-7xl items-center gap-3 p-2 md:px-6 md:py-2 xl:mx-auto xl:w-full">
+        <a class="flex cursor-pointer items-center gap-1 border-0 p-2 shrink-0 uppercase hocus:tw-highlight transition-all"
+            href="index.htm">
+            <span class="tw-color hidden font-serif text-4xl text-inherit md:inline">Talent calculator</span>
+            <span class="tw-color font-serif text-4xl text-inherit md:hidden">TC</span>
+        </a>
+        <button title="Change language"
+            class="flex cursor-pointer items-center gap-1 border-0 p-2 shrink-0 hocus:tw-highlight transition-all"
+            type="button">
+            <img alt="English flag" src="gh/lipis/flag-icons/flags/4x3/gb.svg" style="width:18px;height:18px">
+        </button>
+    </header>
+
+    <main class="flex max-w-7xl grow flex-col gap-3 p-2 pt-0 md:px-6 xl:mx-auto xl:w-full">
+        <!-- 职业导航栏 -->
+        <div class="tw-surface-3 flex flex-row justify-evenly gap-2 overflow-x-auto p-0">
+            <a class="hocus:tw-highlight flex shrink-0 flex-col items-center gap-1 p-4 pb-2" href="warrior.html"><img
+                    src="icons/class_warrior.png" width="48" height="48"><span style="color:#C79C6E">Warrior</span></a>
+            <a class="hocus:tw-highlight flex shrink-0 flex-col items-center gap-1 p-4 pb-2" href="paladin.html"><img
+                    src="icons/class_paladin.png" width="48" height="48"><span style="color:#F58CBA">Paladin</span></a>
+            <a class="hocus:tw-highlight flex shrink-0 flex-col items-center gap-1 p-4 pb-2" href="hunter.html"><img
+                    src="icons/class_hunter.png" width="48" height="48"><span style="color:#ABD473">Hunter</span></a>
+            <a class="hocus:tw-highlight flex shrink-0 flex-col items-center gap-1 p-4 pb-2" href="rogue.html"><img
+                    src="icons/class_rogue.png" width="48" height="48"><span style="color:#FFF569">Rogue</span></a>
+            <a class="hocus:tw-highlight flex shrink-0 flex-col items-center gap-1 p-4 pb-2" href="priest.html"><img
+                    src="icons/class_priest.png" width="48" height="48"><span style="color:#FFFFFF">Priest</span></a>
+            <a class="hocus:tw-highlight flex shrink-0 flex-col items-center gap-1 p-4 pb-2" href="shaman.html"><img
+                    src="icons/class_shaman.png" width="48" height="48"><span style="color:#0070DE">Shaman</span></a>
+            <a class="hocus:tw-highlight flex shrink-0 flex-col items-center gap-1 p-4 pb-2" href="mage.html"><img
+                    src="icons/class_mage.png" width="48" height="48"><span style="color:#40C7EB">Mage</span></a>
+            <a class="hocus:tw-highlight flex shrink-0 flex-col items-center gap-1 p-4 pb-2" href="warlock.html"><img
+                    src="icons/class_warlock.png" width="48" height="48"><span style="color:#8787ED">Warlock</span></a>
+            <a class="hocus:tw-highlight flex shrink-0 flex-col items-center gap-1 p-4 pb-2" href="druid.html"><img
+                    src="icons/class_druid.png" width="48" height="48"><span style="color:#FF7D0A">Druid</span></a>
+        </div>
+
+        <!-- 天赋计算器主容器 -->
+        <div id="talent-app" class="tw-surface-3 p-4">
+            <!-- 头部信息 -->
+            <div class="flex flex-wrap items-center gap-3 mb-4">
+                <img src="icons/class_druid.png" width="48" height="48">
+                <h3 style="color:#FF7D0A" class="text-2xl font-bold">Druid</h3>
+                <span class="h3 grow" id="totalPointsDisplay">0 / 0 / 0</span>
+                <span class="h4 text-blue-gray">Points left: <span id="pointsLeft" class="h3">51</span></span>
+                <button id="shareBtn"
+                    class="flex cursor-pointer items-center gap-1 border-0 p-2 -mx-2 hocus:tw-highlight transition-all">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" />
+                        <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" />
+                    </svg>
+                    <span>Share</span>
+                </button>
+            </div>
+            <hr class="mb-4">
+
+            <!-- 三系天赋标题 - 修复为同一行 -->
+            <div class="grid grid-cols-3 gap-4 mb-6">
+                <div class="flex items-center justify-center gap-2 bg-dark-gray/50 p-2 rounded">
+                    <img src="icons/spell_nature_lightning.png" width="32" height="32">
+                    <span class="h4">Balance</span>
+                    <span class="ml-auto text-blue-gray"><span id="balanceTotal">0</span>/51</span>
+                </div>
+                <div class="flex items-center justify-center gap-2 bg-dark-gray/50 p-2 rounded">
+                    <img src="icons/ability_physical_taunt.png" width="32" height="32">
+                    <span class="h4">Feral Combat</span>
+                    <span class="ml-auto text-blue-gray"><span id="feralTotal">0</span>/47</span>
+                </div>
+                <div class="flex items-center justify-center gap-2 bg-dark-gray/50 p-2 rounded">
+                    <img src="icons/spell_nature_healingtouch.png" width="32" height="32">
+                    <span class="h4">Restoration</span>
+                    <span class="ml-auto text-blue-gray"><span id="restoTotal">0</span>/56</span>
+                </div>
+            </div>
+            <hr class="mb-4">
+
+            <!-- Balance 天赋树 -->
+            <div class="tree-container mb-8" id="balanceTreeContainer">
+                <div class="grid grid-cols-4 gap-6 justify-center" id="balanceTree"></div>
+                <button
+                    class="clear-tree-btn flex cursor-pointer items-center gap-1 border-0 p-2 text-red text-sm hocus:tw-highlight transition-all mt-4"
+                    data-tree="balance">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M18 6 6 18" />
+                        <path d="m6 6 12 12" />
+                    </svg>
+                    <span>Clear Balance points</span>
+                </button>
+            </div>
+
+            <!-- Feral Combat 天赋树 -->
+            <div class="tree-container mb-8" id="feralTreeContainer">
+                <div class="grid grid-cols-4 gap-6 justify-center" id="feralTree"></div>
+                <button
+                    class="clear-tree-btn flex cursor-pointer items-center gap-1 border-0 p-2 text-red text-sm hocus:tw-highlight transition-all mt-4"
+                    data-tree="feral">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M18 6 6 18" />
+                        <path d="m6 6 12 12" />
+                    </svg>
+                    <span>Clear Feral Combat points</span>
+                </button>
+            </div>
+
+            <!-- Restoration 天赋树 -->
+            <div class="tree-container mb-4" id="restoTreeContainer">
+                <div class="grid grid-cols-4 gap-6 justify-center" id="restoTree"></div>
+                <button
+                    class="clear-tree-btn flex cursor-pointer items-center gap-1 border-0 p-2 text-red text-sm hocus:tw-highlight transition-all mt-4"
+                    data-tree="resto">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M18 6 6 18" />
+                        <path d="m6 6 12 12" />
+                    </svg>
+                    <span>Clear Restoration points</span>
+                </button>
+            </div>
+        </div>
+    </main>
+
+    <footer class="flex max-w-7xl items-center justify-center gap-3 p-2 md:px-6 md:py-2 xl:mx-auto xl:w-full">
+        <p class="text-blue-gray text-sm">Created by Haaxor1689</p>
+        <a class="flex cursor-pointer items-center gap-1 border-0 p-2 text-blue-gray shrink-0 text-sm"
+            href="https://turtlecraft.gg/bug-tracker">Report a bug</a>
+    </footer>
+
+    <script>
+        // 天赋数据定义（基于原文件提取）
+        const talents = {
+            balance: {
+                maxPoints: 51,
+                talents: [
+                    { id: 0, icon: "spell_nature_abolishmagic", ranks: 5, row: 0, col: 0, requires: null, reqRanks: 0, name: "Improved Wrath" },
+                    { id: 1, icon: "spell_nature_natureswrath", ranks: 1, row: 0, col: 1, requires: null, reqRanks: 0, name: "Nature's Grasp" },
+                    { id: 2, icon: "spell_nature_natureswrath", ranks: 4, row: 0, col: 2, requires: 1, reqRanks: 1, name: "Improved Nature's Grasp" },
+                    { id: 3, icon: "inv_misc_gem_emerald_01", ranks: 2, row: 0, col: 3, requires: null, reqRanks: 0, name: "Sylvan Blessing" },
+                    { id: 4, icon: "spell_nature_sleep", ranks: 3, row: 1, col: 0, requires: null, reqRanks: 0, name: "Guidance of the Dream" },
+                    { id: 5, icon: "spell_nature_starfall", ranks: 2, row: 1, col: 1, requires: null, reqRanks: 0, name: "Improved Moonfire" },
+                    { id: 6, icon: "inv_staff_01", ranks: 3, row: 1, col: 2, requires: null, reqRanks: 0, name: "Natural Weapons" },
+                    { id: 7, icon: "spell_nature_wispsplode", ranks: 3, row: 1, col: 3, requires: null, reqRanks: 0, name: "Natural Shapeshifter" },
+                    { id: 8, icon: "spell_nature_moonglow", ranks: 3, row: 2, col: 3, requires: null, reqRanks: 0, name: "Moonfury" },
+                    { id: 9, icon: "spell_nature_crystalball", ranks: 1, row: 2, col: 1, requires: 6, reqRanks: 3, name: "Omen of Clarity" },
+                    { id: 10, icon: "spell_nature_naturetouchgrow", ranks: 2, row: 2, col: 2, requires: null, reqRanks: 0, name: "Nature's Reach" },
+                    { id: 11, icon: "spell_nature_purge", ranks: 5, row: 3, col: 0, requires: 5, reqRanks: 2, name: "Vengeance" },
+                    { id: 12, icon: "spell_nature_sentinal", ranks: 3, row: 3, col: 1, requires: null, reqRanks: 0, name: "Moonglow" },
+                    { id: 13, icon: "ability_druid_owlkinfrenzy", ranks: 3, row: 3, col: 2, requires: 17, reqRanks: 1, name: "Owlkin Frenzy" },
+                    { id: 14, icon: "spell_nature_forceofnature", ranks: 1, row: 3, col: 3, requires: null, reqRanks: 0, name: "Moonkin Form" },
+                    { id: 15, icon: "spell_nature_naturesblessing", ranks: 1, row: 4, col: 2, requires: 12, reqRanks: 3, name: "Nature's Grace" },
+                    { id: 16, icon: "spell_arcane_starfire", ranks: 3, row: 4, col: 3, requires: null, reqRanks: 0, name: "Improved Starfire" },
+                    { id: 17, icon: "ability_druid_manatree", ranks: 3, row: 5, col: 0, requires: null, reqRanks: 0, name: "Balance of All Things" },
+                    { id: 18, icon: "ability_druid_galewinds", ranks: 2, row: 5, col: 1, requires: null, reqRanks: 0, name: "Gale Winds" },
+                    { id: 19, icon: "ability_druid_eclipse", ranks: 1, row: 6, col: 2, requires: null, reqRanks: 0, name: "Eclipse" }
+                ]
+            },
+            feral: {
+                maxPoints: 47,
+                talents: [
+                    { id: 0, icon: "ability_hunter_pet_hyena", ranks: 5, row: 0, col: 1, requires: null, reqRanks: 0, name: "Ferocity" },
+                    { id: 1, icon: "ability_druid_demoralizingroar", ranks: 5, row: 0, col: 2, requires: null, reqRanks: 0, name: "Feral Aggression" },
+                    { id: 2, icon: "ability_ambush", ranks: 3, row: 1, col: 0, requires: null, reqRanks: 0, name: "Feral Instinct" },
+                    { id: 3, icon: "ability_druid_bash", ranks: 2, row: 1, col: 1, requires: null, reqRanks: 0, name: "Brutal Impact" },
+                    { id: 4, icon: "inv_misc_pelt_bear_03", ranks: 3, row: 1, col: 2, requires: null, reqRanks: 0, name: "Thick Hide" },
+                    { id: 5, icon: "ability_druid_disembowel", ranks: 3, row: 1, col: 3, requires: null, reqRanks: 0, name: "Open Wounds" },
+                    { id: 6, icon: "spell_nature_spiritwolf", ranks: 2, row: 2, col: 0, requires: null, reqRanks: 0, name: "Feral Swiftness" },
+                    { id: 7, icon: "ability_hunter_pet_bear", ranks: 1, row: 2, col: 1, requires: null, reqRanks: 0, name: "Feral Charge" },
+                    { id: 8, icon: "inv_misc_monsterclaw_04", ranks: 3, row: 2, col: 2, requires: null, reqRanks: 0, name: "Sharpened Claws" },
+                    { id: 9, icon: "ability_racial_cannibalize", ranks: 2, row: 2, col: 3, requires: 8, reqRanks: 3, name: "Primal Fury" },
+                    { id: 10, icon: "ability_hunter_pet_cat", ranks: 3, row: 3, col: 1, requires: null, reqRanks: 0, name: "Predatory Strikes" },
+                    { id: 11, icon: "ability_ghoulfrenzy", ranks: 2, row: 3, col: 2, requires: null, reqRanks: 0, name: "Blood Frenzy" },
+                    { id: 12, icon: "spell_shadow_vampiricaura", ranks: 2, row: 3, col: 3, requires: null, reqRanks: 0, name: "Improved Shred" },
+                    { id: 13, icon: "spell_shadow_unholyfrenzy", ranks: 2, row: 4, col: 0, requires: null, reqRanks: 0, name: "Ancient Brutality" },
+                    { id: 14, icon: "ability_druid_berserk", ranks: 1, row: 4, col: 1, requires: null, reqRanks: 0, name: "Berserk" },
+                    { id: 15, icon: "spell_holy_blessingofagility", ranks: 5, row: 4, col: 2, requires: 10, reqRanks: 3, name: "Heart of the Wild" },
+                    { id: 16, icon: "ability_druid_ravage", ranks: 2, row: 4, col: 3, requires: null, reqRanks: 0, name: "Carnage" },
+                    { id: 17, icon: "spell_nature_unyeildingstamina", ranks: 1, row: 5, col: 2, requires: null, reqRanks: 0, name: "Leader of the Pack" }
+                ]
+            },
+            resto: {
+                maxPoints: 56,
+                talents: [
+                    { id: 0, icon: "spell_nature_regeneration", ranks: 5, row: 0, col: 1, requires: null, reqRanks: 0, name: "Improved Mark of the Wild" },
+                    { id: 1, icon: "spell_holy_blessingofstamina", ranks: 5, row: 0, col: 2, requires: null, reqRanks: 0, name: "Furor" },
+                    { id: 2, icon: "spell_nature_healingtouch", ranks: 5, row: 1, col: 0, requires: null, reqRanks: 0, name: "Improved Healing Touch" },
+                    { id: 3, icon: "spell_nature_healingwavegreater", ranks: 5, row: 1, col: 1, requires: null, reqRanks: 0, name: "Nature's Focus" },
+                    { id: 4, icon: "ability_eyeoftheowl", ranks: 5, row: 1, col: 2, requires: null, reqRanks: 0, name: "Subtlety" },
+                    { id: 5, icon: "inv_relics_idolofrejuvenation", ranks: 1, row: 2, col: 0, requires: null, reqRanks: 0, name: "Swiftmend" },
+                    { id: 6, icon: "btnorbofdepths", ranks: 3, row: 2, col: 1, requires: null, reqRanks: 0, name: "Genesis" },
+                    { id: 7, icon: "spell_frost_windwalkon", ranks: 3, row: 2, col: 2, requires: null, reqRanks: 0, name: "Reflection" },
+                    { id: 8, icon: "spell_nature_protectionformnature", ranks: 5, row: 3, col: 0, requires: null, reqRanks: 0, name: "Gift of Nature" },
+                    { id: 9, icon: "spell_holy_elunesgrace", ranks: 5, row: 3, col: 2, requires: null, reqRanks: 0, name: "Tranquil Spirit" },
+                    { id: 10, icon: "inv_misc_herb_02", ranks: 2, row: 3, col: 3, requires: 2, reqRanks: 5, name: "Aessina's Bloom" },
+                    { id: 11, icon: "spell_nature_ravenform", ranks: 1, row: 4, col: 1, requires: 10, reqRanks: 3, name: "Nature's Swiftness" },
+                    { id: 12, icon: "inv_relics_idolofhealth", ranks: 3, row: 4, col: 2, requires: null, reqRanks: 0, name: "Preservation" },
+                    { id: 13, icon: "spell_nature_resistnature", ranks: 5, row: 5, col: 0, requires: 13, reqRanks: 5, name: "Improved Regrowth" },
+                    { id: 14, icon: "spell_nature_tranquility", ranks: 2, row: 5, col: 1, requires: null, reqRanks: 0, name: "Improved Tranquility" },
+                    { id: 15, icon: "ability_druid_treeoflife", ranks: 1, row: 6, col: 2, requires: 21, reqRanks: 5, name: "Tree of Life Form" }
+                ]
+            }
+        };
+
+        // 状态管理
+        let points = {
+            balance: new Array(talents.balance.talents.length).fill(0),
+            feral: new Array(talents.feral.talents.length).fill(0),
+            resto: new Array(talents.resto.talents.length).fill(0)
+        };
+
+        // 计算每系总点数
+        function getTreeTotal(tree) {
+            return points[tree].reduce((a, b) => a + b, 0);
+        }
+
+        // 计算剩余总点数
+        function getRemainingPoints() {
+            let totalUsed = getTreeTotal('balance') + getTreeTotal('feral') + getTreeTotal('resto');
+            return 51 - totalUsed;
+        }
+
+        // 检查天赋是否可以加点
+        function canAddPoint(tree, idx) {
+            let t = talents[tree].talents[idx];
+            if (points[tree][idx] >= t.ranks) return false;
+            let remaining = getRemainingPoints();
+            if (remaining <= 0) return false;
+
+            // 检查前置天赋
+            if (t.requires !== null && t.requires !== undefined) {
+                if (points[tree][t.requires] < t.reqRanks) return false;
+            }
+
+            // 检查行内前置点数（需要该行之前有5点）
+            let totalInTree = getTreeTotal(tree);
+            if (totalInTree < t.row * 5) return false;
+
+            return true;
+        }
+
+        // 减点检查
+        function canRemovePoint(tree, idx) {
+            if (points[tree][idx] <= 0) return false;
+            // 检查是否有后续天赋依赖
+            for (let i = 0; i < talents[tree].talents.length; i++) {
+                let t = talents[tree].talents[i];
+                if (t.requires === idx && points[tree][i] > 0) return false;
+            }
+            return true;
+        }
+
+        // 添加箭头连线
+        function addArrows(containerId, treeName) {
+            const arrows = [
+                // 向下的箭头 (row, col) -> (row+1, col)
+                { from: [0, 0], to: [1, 0], dir: "down" },
+                { from: [0, 1], to: [1, 1], dir: "down" },
+                { from: [0, 2], to: [1, 2], dir: "down" },
+                { from: [0, 3], to: [1, 3], dir: "down" },
+                { from: [1, 0], to: [2, 0], dir: "down" },
+                { from: [1, 1], to: [2, 1], dir: "down" },
+                { from: [1, 2], to: [2, 2], dir: "down" },
+                { from: [1, 3], to: [2, 3], dir: "down" },
+                { from: [2, 0], to: [3, 0], dir: "down" },
+                { from: [2, 1], to: [3, 1], dir: "down" },
+                { from: [2, 2], to: [3, 2], dir: "down" },
+                { from: [2, 3], to: [3, 3], dir: "down" },
+                { from: [3, 0], to: [4, 0], dir: "down" },
+                { from: [3, 1], to: [4, 1], dir: "down" },
+                { from: [3, 2], to: [4, 2], dir: "down" },
+                { from: [3, 3], to: [4, 3], dir: "down" },
+                { from: [4, 0], to: [5, 0], dir: "down" },
+                { from: [4, 1], to: [5, 1], dir: "down" },
+                { from: [4, 2], to: [5, 2], dir: "down" },
+                { from: [4, 3], to: [5, 3], dir: "down" },
+                { from: [5, 0], to: [6, 0], dir: "down" },
+                { from: [5, 1], to: [6, 1], dir: "down" },
+                { from: [5, 2], to: [6, 2], dir: "down" },
+                { from: [5, 3], to: [6, 3], dir: "down" },
+                // 向右的箭头
+                { from: [0, 0], to: [0, 1], dir: "right" },
+                { from: [0, 1], to: [0, 2], dir: "right" },
+                { from: [0, 2], to: [0, 3], dir: "right" },
+                { from: [1, 0], to: [1, 1], dir: "right" },
+                { from: [1, 1], to: [1, 2], dir: "right" },
+                { from: [1, 2], to: [1, 3], dir: "right" },
+                { from: [2, 0], to: [2, 1], dir: "right" },
+                { from: [2, 1], to: [2, 2], dir: "right" },
+                { from: [2, 2], to: [2, 3], dir: "right" },
+                { from: [3, 0], to: [3, 1], dir: "right" },
+                { from: [3, 1], to: [3, 2], dir: "right" },
+                { from: [3, 2], to: [3, 3], dir: "right" },
+                // 向左的箭头
+                { from: [0, 1], to: [0, 0], dir: "left" },
+                { from: [0, 2], to: [0, 1], dir: "left" },
+                { from: [0, 3], to: [0, 2], dir: "left" },
+                { from: [1, 1], to: [1, 0], dir: "left" },
+                { from: [1, 2], to: [1, 1], dir: "left" },
+                { from: [1, 3], to: [1, 2], dir: "left" }
+            ];
+
+            const container = document.getElementById(containerId);
+            if (!container) return;
+
+            arrows.forEach(arrow => {
+                let fromRow = arrow.from[0];
+                let fromCol = arrow.from[1];
+                let toRow = arrow.to[0];
+                let toCol = arrow.to[1];
+                let dir = arrow.dir;
+
+                // 获取源和目标位置
+                let fromSlot = container.querySelector(`.talent-slot[data-row="${fromRow}"][data-col="${fromCol}"]`);
+                let toSlot = container.querySelector(`.talent-slot[data-row="${toRow}"][data-col="${toCol}"]`);
+
+                if (fromSlot && toSlot) {
+                    let fromRect = fromSlot.getBoundingClientRect();
+                    let toRect = toSlot.getBoundingClientRect();
+                    let containerRect = container.getBoundingClientRect();
+
+                    let arrowDiv = document.createElement('div');
+                    arrowDiv.className = 'arrow-line';
+
+                    if (dir === 'down') {
+                        let left = fromRect.left - containerRect.left + 32;
+                        let top = fromRect.bottom - containerRect.top;
+                        arrowDiv.style.left = left + 'px';
+                        arrowDiv.style.top = top + 'px';
+                        arrowDiv.style.width = '15px';
+                        arrowDiv.style.height = (toRect.top - fromRect.bottom) + 'px';
+                        arrowDiv.style.backgroundImage = 'url("arrows/down.png")';
+                        arrowDiv.style.backgroundRepeat = 'repeat-y';
+                        arrowDiv.style.backgroundPosition = 'center';
+                    } else if (dir === 'right') {
+                        let left = fromRect.right - containerRect.left;
+                        let top = fromRect.top - containerRect.top + 26;
+                        arrowDiv.style.left = left + 'px';
+                        arrowDiv.style.top = top + 'px';
+                        arrowDiv.style.width = (toRect.left - fromRect.right) + 'px';
+                        arrowDiv.style.height = '15px';
+                        arrowDiv.style.backgroundImage = 'url("arrows/right.png")';
+                        arrowDiv.style.backgroundRepeat = 'repeat-x';
+                        arrowDiv.style.backgroundPosition = 'center';
+                    } else if (dir === 'left') {
+                        let left = toRect.right - containerRect.left;
+                        let top = fromRect.top - containerRect.top + 26;
+                        arrowDiv.style.left = left + 'px';
+                        arrowDiv.style.top = top + 'px';
+                        arrowDiv.style.width = (fromRect.left - toRect.right) + 'px';
+                        arrowDiv.style.height = '15px';
+                        arrowDiv.style.backgroundImage = 'url("arrows/left.png")';
+                        arrowDiv.style.backgroundRepeat = 'repeat-x';
+                        arrowDiv.style.backgroundPosition = 'center';
+                    }
+
+                    container.style.position = 'relative';
+                    container.appendChild(arrowDiv);
+                }
+            });
+        }
+
+        // 生成天赋树HTML
+        function buildTree(treeName) {
+            let tree = talents[treeName];
+            let containerId = `${treeName}Tree`;
+            let container = document.getElementById(containerId);
+            if (!container) return;
+
+            container.innerHTML = '';
+            // 确定最大行数
+            let maxRow = Math.max(...tree.talents.map(t => t.row));
+
+            // 为每一行创建网格
+            for (let row = 0; row <= maxRow; row++) {
+                for (let col = 0; col < 4; col++) {
+                    let talent = tree.talents.find(t => t.row === row && t.col === col);
+                    let slotDiv = document.createElement('div');
+                    slotDiv.className = 'talent-slot flex justify-center items-center';
+                    slotDiv.setAttribute('data-row', row);
+                    slotDiv.setAttribute('data-col', col);
+
+                    if (talent) {
+                        let btn = document.createElement('button');
+                        btn.type = 'button';
+                        btn.className = 'cursor group/icon relative flex-shrink-0 focus:outline-none talent-btn';
+                        btn.style.width = '64px';
+                        btn.style.height = '64px';
+                        btn.setAttribute('data-idx', talent.id);
+
+                        let img = document.createElement('img');
+                        img.src = `icons/${talent.icon}.png`;
+                        img.width = 64;
+                        img.height = 64;
+                        img.alt = talent.name;
+
+                        let hoverImg = document.createElement('img');
+                        hoverImg.src = 'icon_hover.png';
+                        hoverImg.width = 64;
+                        hoverImg.height = 64;
+                        hoverImg.className = 'absolute inset-0 p-[5%] group-hover/icon:block hidden';
+
+                        let pointsSpan = document.createElement('p');
+                        pointsSpan.className = 'bg-dark-gray absolute right-1 bottom-1 translate-x-1/2 translate-y-1/2 rounded border-0 px-1 text-green talent-points';
+                        pointsSpan.innerText = `0/${talent.ranks}`;
+
+                        btn.appendChild(img);
+                        btn.appendChild(hoverImg);
+                        btn.appendChild(pointsSpan);
+                        slotDiv.appendChild(btn);
+                    } else {
+                        // 空白占位
+                        let placeholder = document.createElement('div');
+                        placeholder.style.width = '64px';
+                        placeholder.style.height = '64px';
+                        slotDiv.appendChild(placeholder);
+                    }
+                    container.appendChild(slotDiv);
+                }
+            }
+
+            // 添加箭头连线
+            setTimeout(() => addArrows(containerId, treeName), 100);
+        }
+
+        // 更新UI
+        function updateUI() {
+            // 更新各系总数
+            document.getElementById('balanceTotal').innerText = getTreeTotal('balance');
+            document.getElementById('feralTotal').innerText = getTreeTotal('feral');
+            document.getElementById('restoTotal').innerText = getTreeTotal('resto');
+            document.getElementById('totalPointsDisplay').innerHTML = `${getTreeTotal('balance')} / ${getTreeTotal('feral')} / ${getTreeTotal('resto')}`;
+            document.getElementById('pointsLeft').innerText = getRemainingPoints();
+
+            // 更新所有天赋按钮状态
+            ['balance', 'feral', 'resto'].forEach(tree => {
+                let container = document.getElementById(`${tree}Tree`);
+                if (!container) return;
+                let slots = container.querySelectorAll('.talent-slot');
+                slots.forEach((slot, slotIdx) => {
+                    let btn = slot.querySelector('.talent-btn');
+                    if (!btn) return;
+                    let idx = parseInt(btn.getAttribute('data-idx'));
+                    if (isNaN(idx)) return;
+
+                    let t = talents[tree].talents[idx];
+                    let currentPoints = points[tree][idx];
+                    let canAdd = canAddPoint(tree, idx);
+                    let canRemove = canRemovePoint(tree, idx);
+
+                    if (!canAdd && currentPoints === 0) {
+                        btn.classList.add('grayscale');
+                    } else {
+                        btn.classList.remove('grayscale');
+                    }
+
+                    let pointsSpan = btn.querySelector('.talent-points');
+                    if (pointsSpan) pointsSpan.innerText = `${currentPoints}/${t.ranks}`;
+
+                    // 左键加点
+                    btn.onclick = (e) => {
+                        e.stopPropagation();
+                        if (canAdd) {
+                            points[tree][idx]++;
+                            updateUI();
+                        }
+                        return false;
+                    };
+
+                    // 右键减点
+                    btn.oncontextmenu = (e) => {
+                        e.preventDefault();
+                        e.stopPropagation();
+                        if (canRemove) {
+                            points[tree][idx]--;
+                            updateUI();
+                        }
+                        return false;
+                    };
+                });
+            });
+        }
+
+        // 初始化
+        function init() {
+            buildTree('balance');
+            buildTree('feral');
+            buildTree('resto');
+            updateUI();
+
+            // 清除按钮事件
+            document.querySelectorAll('.clear-tree-btn').forEach(btn => {
+                btn.addEventListener('click', (e) => {
+                    let tree = btn.getAttribute('data-tree');
+                    points[tree].fill(0);
+                    updateUI();
+                });
+            });
+
+            // 分享按钮
+            document.getElementById('shareBtn').addEventListener('click', () => {
+                let url = new URL(window.location.href);
+                url.searchParams.set('b', points.balance.join(','));
+                url.searchParams.set('f', points.feral.join(','));
+                url.searchParams.set('r', points.resto.join(','));
+                navigator.clipboard.writeText(url.toString());
+                alert('Build link copied to clipboard!');
+            });
+
+            // 从URL加载
+            let params = new URLSearchParams(window.location.search);
+            if (params.has('b')) {
+                let b = params.get('b').split(',').map(Number);
+                if (b.length === points.balance.length) points.balance = b;
+            }
+            if (params.has('f')) {
+                let f = params.get('f').split(',').map(Number);
+                if (f.length === points.feral.length) points.feral = f;
+            }
+            if (params.has('r')) {
+                let r = params.get('r').split(',').map(Number);
+                if (r.length === points.resto.length) points.resto = r;
+            }
+            updateUI();
+        }
+
+        init();
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,944 @@
+卷 程序安装 的文件夹 PATH 列表
+卷序列号为 6AAC-FEAD
+D:.
+│  .htaccess
+│  directory_structure.txt
+│  druid.html
+│  hunter.html
+│  icon.png
+│  icon_hover.png
+│  index.htm
+│  mage.html
+│  paladin.html
+│  priest.html
+│  rogue.html
+│  shaman.html
+│  warlock.html
+│  warrior.html
+│  webcopy-origin.txt
+│  
+├─.vscode
+│      settings.json
+│      
+├─arrows
+│      down.png
+│      down2.png
+│      left.png
+│      left2.png
+│      right.png
+│      right2.png
+│      rightdown.png
+│      rightdown2.png
+│      
+├─bgs
+│      anniversary.webp
+│      anomalus.webp
+│      balor.webp
+│      druid.webp
+│      gm.webp
+│      gnarlmoon.webp
+│      grimbatol.webp
+│      hunter.webp
+│      lunatic.webp
+│      northwind.webp
+│      paladin_warlock.webp
+│      priest.webp
+│      rogue_mage.webp
+│      shaman_warrior.webp
+│      sorrowguard.webp
+│      
+├─error
+│      400.html
+│      403.html
+│      404.html
+│      500.html
+│      501.html
+│      502.html
+│      503.html
+│      504.html
+│      505.html
+│      506.html
+│      507.html
+│      509.html
+│      510.html
+│      index.html
+│      
+├─gh
+│  └─lipis
+│      └─flag-icons
+│          └─flags
+│              └─4x3
+│                      gb.svg
+│                      
+├─icons
+│      ability_ambush.png
+│      ability_backstab.png
+│      ability_bullrush.png
+│      ability_creature_cursed_02.png
+│      ability_creature_poison_06.png
+│      ability_criticalstrike.png
+│      ability_defend.png
+│      ability_devour.png
+│      ability_druid_bash.png
+│      ability_druid_berserk.png
+│      ability_druid_demoralizingroar.png
+│      ability_druid_disembowel.png
+│      ability_druid_eclipse.png
+│      ability_druid_ferociousbite.png
+│      ability_druid_galewinds.png
+│      ability_druid_manatree.png
+│      ability_druid_owlkinfrenzy.png
+│      ability_druid_rake.png
+│      ability_druid_ravage.png
+│      ability_druid_treeoflife.png
+│      ability_dualwield.png
+│      ability_ensnare.png
+│      ability_eyeoftheowl.png
+│      ability_fiegndead.png
+│      ability_ghoulfrenzy.png
+│      ability_golemstormbolt.png
+│      ability_golemthunderclap.png
+│      ability_gouge.png
+│      ability_hibernation.png
+│      ability_hunter_aspectofthemonkey.png
+│      ability_hunter_beastsoothe.png
+│      ability_hunter_beasttaming.png
+│      ability_hunter_disarmingshot.png
+│      ability_hunter_goforthethroat.png
+│      ability_hunter_improvedtracking.png
+│      ability_hunter_killcommand.png
+│      ability_hunter_lockandload.png
+│      ability_hunter_mendpet.png
+│      ability_hunter_pet_bear.png
+│      ability_hunter_pet_cat.png
+│      ability_hunter_pet_hyena.png
+│      ability_hunter_quickshot.png
+│      ability_hunter_swiftstrike.png
+│      ability_impalingbolt.png
+│      ability_kick.png
+│      ability_mage_firestarter.png
+│      ability_marksmanship.png
+│      ability_mount_jungletiger.png
+│      ability_paladin_judgementblue.png
+│      ability_parry.png
+│      ability_physical_taunt.png
+│      ability_piercedamage.png
+│      ability_poisons.png
+│      ability_racial_avatar.png
+│      ability_racial_bloodrage.png
+│      ability_racial_cannibalize.png
+│      ability_rogue_ambush.png
+│      ability_rogue_envelopingshadows.png
+│      ability_rogue_eviscerate.png
+│      ability_rogue_feigndeath.png
+│      ability_rogue_garrote.png
+│      ability_rogue_shadowstep.png
+│      ability_rogue_slicedice.png
+│      ability_rogue_sprint.png
+│      ability_rogue_surpriseattack.png
+│      ability_rogue_trip.png
+│      ability_sap.png
+│      ability_searingarrow.png
+│      ability_shaman_stormstrike.png
+│      ability_shaman_watershield.png
+│      ability_stealth.png
+│      ability_thunderbolt.png
+│      ability_thunderclap.png
+│      ability_townwatch.png
+│      ability_upgrademoonglaive.png
+│      ability_warlock_demonicpower.png
+│      ability_warlock_power_overwhelming.png
+│      ability_warrior_battleshout.png
+│      ability_warrior_challange.png
+│      ability_warrior_charge.png
+│      ability_warrior_commandingshout.png
+│      ability_warrior_decisivestrike.png
+│      ability_warrior_disarm.png
+│      ability_warrior_improveddisciplines.png
+│      ability_warrior_innerrage.png
+│      ability_warrior_intervene.png
+│      ability_warrior_reprisal.png
+│      ability_warrior_revenge.png
+│      ability_warrior_riposte.png
+│      ability_warrior_savageblow.png
+│      ability_warrior_shieldbash.png
+│      ability_warrior_shieldmastery.png
+│      ability_warrior_shieldwall.png
+│      ability_warrior_stalwartprotector.png
+│      ability_warrior_strengthofarms.png
+│      ability_warrior_swordandboard.png
+│      ability_warrior_victoryrush.png
+│      ability_warrior_warcry.png
+│      ability_warrior_weaponmastery.png
+│      ability_whirlwind.png
+│      btnholyscriptures.png
+│      btnorbofdepths.png
+│      class_druid.png
+│      class_hunter.png
+│      class_mage.png
+│      class_paladin.png
+│      class_priest.png
+│      class_rogue.png
+│      class_shaman.png
+│      class_warlock.png
+│      class_warrior.png
+│      earthshaker_slam_16.png
+│      garrison_weaponupgrade.png
+│      inv_axe_09.png
+│      inv_enchant_essenceeternallarge.png
+│      inv_enchant_essencemagiclarge.png
+│      inv_gauntlets_04.png
+│      inv_hammer_04.png
+│      inv_jewelry_talisman_fireice.png
+│      inv_mace_01.png
+│      inv_misc_bone_09.png
+│      inv_misc_book_06.png
+│      inv_misc_book_07.png
+│      inv_misc_book_08.png
+│      inv_misc_gem_emerald_01.png
+│      inv_misc_herb_02.png
+│      inv_misc_herb_16.png
+│      inv_misc_key_03.png
+│      inv_misc_map_01.png
+│      inv_misc_monsterclaw_03.png
+│      inv_misc_monsterclaw_04.png
+│      inv_misc_pelt_bear_03.png
+│      inv_misc_quiver_03.png
+│      inv_relics_idolofhealth.png
+│      inv_relics_idolofrejuvenation.png
+│      inv_shield_05.png
+│      inv_shield_06.png
+│      inv_shoulder_30.png
+│      inv_spear_07.png
+│      inv_staff_01.png
+│      inv_sword_02.png
+│      inv_sword_05.png
+│      inv_sword_17.png
+│      inv_sword_20.png
+│      inv_sword_27.png
+│      inv_sword_31.png
+│      inv_sword_48.png
+│      inv_throwingknife_01.png
+│      inv_throwingknife_05.png
+│      inv_throwingknife_06.png
+│      inv_wand_01.png
+│      inv_weapon_rifle_06.png
+│      inv_weapon_shortblade_05.png
+│      inv_weapon_shortblade_14.png
+│      master_strike_1.png
+│      racial_troll_berserk.png
+│      spell_arcane_blast.png
+│      spell_arcane_blink.png
+│      spell_arcane_manatap.png
+│      spell_arcane_portaldarnassus.png
+│      spell_arcane_starfire.png
+│      spell_cloaked_in_shadows_2.png
+│      spell_coordinated_assault_1.png
+│      spell_double_dose_3.png
+│      spell_fire_elementaldevastation.png
+│      spell_fire_enchantweapon.png
+│      spell_fire_fire.png
+│      spell_fire_firearmor.png
+│      spell_fire_fireball.png
+│      spell_fire_fireball02.png
+│      spell_fire_flamebolt.png
+│      spell_fire_flameshock.png
+│      spell_fire_flametounge.png
+│      spell_fire_flare.png
+│      spell_fire_frostresistancetotem.png
+│      spell_fire_immolation.png
+│      spell_fire_incinerate.png
+│      spell_fire_lavaspawn.png
+│      spell_fire_masterofelements.png
+│      spell_fire_meteorstorm.png
+│      spell_fire_sealoffire.png
+│      spell_fire_selfdestruct.png
+│      spell_fire_soulburn.png
+│      spell_fire_volcano.png
+│      spell_fire_windsofwoe.png
+│      spell_frost_chillingblast.png
+│      spell_frost_freezingbreath.png
+│      spell_frost_frost.png
+│      spell_frost_frostarmor.png
+│      spell_frost_frostblast.png
+│      spell_frost_frostbolt.png
+│      spell_frost_frostbolt02.png
+│      spell_frost_frostshock.png
+│      spell_frost_frostward.png
+│      spell_frost_glacier.png
+│      spell_frost_iceshard.png
+│      spell_frost_iceshock.png
+│      spell_frost_icestorm.png
+│      spell_frost_manarecharge.png
+│      spell_frost_stun.png
+│      spell_frost_windwalkon.png
+│      spell_frost_wisp.png
+│      spell_frost_wizardmark.png
+│      spell_holy_ashestoashes.png
+│      spell_holy_auramastery.png
+│      spell_holy_auraoflight.png
+│      spell_holy_blessedrecovery.png
+│      spell_holy_blessingofagility.png
+│      spell_holy_blessingofprotection.png
+│      spell_holy_blessingofstamina.png
+│      spell_holy_blessingofstrength.png
+│      spell_holy_crusaderstrike.png
+│      spell_holy_devotion.png
+│      spell_holy_devotionaura.png
+│      spell_holy_dispelmagic.png
+│      spell_holy_elunesgrace.png
+│      spell_holy_excorcism_02.png
+│      spell_holy_eyeforaneye.png
+│      spell_holy_greaterheal.png
+│      spell_holy_heal.png
+│      spell_holy_heal02.png
+│      spell_holy_healingfocus.png
+│      spell_holy_holybolt.png
+│      spell_holy_holynova.png
+│      spell_holy_holysmite.png
+│      spell_holy_innerfire.png
+│      spell_holy_layonhands.png
+│      spell_holy_magicalsentry.png
+│      spell_holy_mindsooth.png
+│      spell_holy_mindvision.png
+│      spell_holy_persuitofjustice.png
+│      spell_holy_power.png
+│      spell_holy_powerwordshield.png
+│      spell_holy_prayerofhealing.png
+│      spell_holy_purify.png
+│      spell_holy_redemption.png
+│      spell_holy_renew.png
+│      spell_holy_restoration.png
+│      spell_holy_resurrection.png
+│      spell_holy_retribution.png
+│      spell_holy_retributionaura.png
+│      spell_holy_revivechampion.png
+│      spell_holy_righteousfury.png
+│      spell_holy_sealofblood.png
+│      spell_holy_sealoffury.png
+│      spell_holy_sealofmight.png
+│      spell_holy_sealofprotection.png
+│      spell_holy_sealofsalvation.png
+│      spell_holy_sealofwrath.png
+│      spell_holy_searinglight.png
+│      spell_holy_searinglightpriest.png
+│      spell_holy_spellwarding.png
+│      spell_holy_spiritualguidence.png
+│      spell_holy_summonlightwell.png
+│      spell_holy_surgeoflight.png
+│      spell_holy_unyieldingfaith.png
+│      spell_holy_vindication.png
+│      spell_holy_wordfortitude.png
+│      spell_hunter_exoticmunitions_poisoned.png
+│      spell_ice_lament.png
+│      spell_ice_magicdamage.png
+│      spell_lacerate_1c.png
+│      spell_lightning_lightningbolt01.png
+│      spell_mage_focusingcrystal.png
+│      spell_magic_lesserinvisibilty.png
+│      spell_magic_magearmor.png
+│      spell_nature_abolishmagic.png
+│      spell_nature_agitatingtotem.png
+│      spell_nature_ancestralguardian.png
+│      spell_nature_astralrecalgroup.png
+│      spell_nature_bloodlust.png
+│      spell_nature_callstorm.png
+│      spell_nature_crystalball.png
+│      spell_nature_earthbindtotem.png
+│      spell_nature_earthquake.png
+│      spell_nature_elementalabsorption.png
+│      spell_nature_enchantarmor.png
+│      spell_nature_forceofnature.png
+│      spell_nature_healingtouch.png
+│      spell_nature_healingwavegreater.png
+│      spell_nature_healingway.png
+│      spell_nature_invisibilty.png
+│      spell_nature_lightning.png
+│      spell_nature_lightningshield.png
+│      spell_nature_magicimmunity.png
+│      spell_nature_manaregentotem.png
+│      spell_nature_mirrorimage.png
+│      spell_nature_moonglow.png
+│      spell_nature_naturesblessing.png
+│      spell_nature_natureswrath.png
+│      spell_nature_naturetouchgrow.png
+│      spell_nature_nullward.png
+│      spell_nature_protectionformnature.png
+│      spell_nature_purge.png
+│      spell_nature_ravenform.png
+│      spell_nature_regenerate.png
+│      spell_nature_regeneration.png
+│      spell_nature_reincarnation.png
+│      spell_nature_removecurse.png
+│      spell_nature_resistnature.png
+│      spell_nature_sentinal.png
+│      spell_nature_sleep.png
+│      spell_nature_slow.png
+│      spell_nature_slowingtotem.png
+│      spell_nature_spiritarmor.png
+│      spell_nature_spiritwolf.png
+│      spell_nature_starfall.png
+│      spell_nature_stoneclawtotem.png
+│      spell_nature_stormreach.png
+│      spell_nature_stranglevines.png
+│      spell_nature_thunderclap.png
+│      spell_nature_tranquility.png
+│      spell_nature_undyingstrength.png
+│      spell_nature_unyeildingstamina.png
+│      spell_nature_wispheal.png
+│      spell_nature_wispsplode.png
+│      spell_shadow_abominationexplosion.png
+│      spell_shadow_antishadow.png
+│      spell_shadow_blackplague.png
+│      spell_shadow_bloodboil.png
+│      spell_shadow_burningspirit.png
+│      spell_shadow_callofbone.png
+│      spell_shadow_chilltouch.png
+│      spell_shadow_corpseexplode.png
+│      spell_shadow_curseofachimonde.png
+│      spell_shadow_curseofmannoroth.png
+│      spell_shadow_curseofsargeras.png
+│      spell_shadow_curseoftounges.png
+│      spell_shadow_darkritual.png
+│      spell_shadow_deathpact.png
+│      spell_shadow_deathscream.png
+│      spell_shadow_detectinvisibility.png
+│      spell_shadow_detectlesserinvisibility.png
+│      spell_shadow_fingerofdeath.png
+│      spell_shadow_fumble.png
+│      spell_shadow_gathershadows.png
+│      spell_shadow_grimward.png
+│      spell_shadow_haunting.png
+│      spell_shadow_impphaseshift.png
+│      spell_shadow_improvedvampiricembrace.png
+│      spell_shadow_lifedrain.png
+│      spell_shadow_lifedrain02.png
+│      spell_shadow_manaburn.png
+│      spell_shadow_metamorphosis.png
+│      spell_shadow_of_death_3b.png
+│      spell_shadow_possession.png
+│      spell_shadow_psychicscream.png
+│      spell_shadow_ragingscream.png
+│      spell_shadow_requiem.png
+│      spell_shadow_scourgebuild.png
+│      spell_shadow_shadetruesight.png
+│      spell_shadow_shadowbolt.png
+│      spell_shadow_shadowform.png
+│      spell_shadow_shadowpact.png
+│      spell_shadow_shadowward.png
+│      spell_shadow_shadowworddominate.png
+│      spell_shadow_shadowwordpain.png
+│      spell_shadow_siphonmana.png
+│      spell_shadow_soulleech.png
+│      spell_shadow_soulleech_1.png
+│      spell_shadow_summonimp.png
+│      spell_shadow_summonsuccubus.png
+│      spell_shadow_teleport.png
+│      spell_shadow_twilight.png
+│      spell_shadow_unholyfrenzy.png
+│      spell_shadow_unsummonbuilding.png
+│      spell_shadow_vampiricaura.png
+│      spell_shaman_spiritlink.png
+│      spell_shaman_tidalwaves.png
+│      spell_smoke_bomb_5.png
+│      trade_archaeology_highbornesoulmirror.png
+│      trade_survival.png
+│      
+├─_next
+│  └─static
+│      ├─chunks
+│      │  │  289-5cb1db75c0040be2.js
+│      │  │  294-1a3969672cb019e5.js
+│      │  │  568-0de3ec61eaff1020.js
+│      │  │  87c73c54-be837ab1b1db7a80.js
+│      │  │  891cff7f-58b6c74962a6ae27.js
+│      │  │  907-283604c8054f6983.js
+│      │  │  968-0112fed5c206d4b8.js
+│      │  │  main-app-b22f8eb0ce7648a3.js
+│      │  │  polyfills-42372ed130431b0a.js
+│      │  │  webpack-24ed39f7fdf6a97a.js
+│      │  │  
+│      │  └─app
+│      │      └─[locale]
+│      │          │  error-9e53f4a8754795fa.js
+│      │          │  page-c8dbb22c4287e627.js
+│      │          │  
+│      │          └─[class]
+│      │                  page-ce9cdb06bf9c66c9.js
+│      │                  
+│      ├─css
+│      │      f60c7d77082be0b0.css
+│      │      
+│      └─media
+│              0d5af134000e2351-s.p.otf
+│              5d9fe33e25fef294-s.p.otf
+│              
+└─备份
+    │  .htaccess
+    │  druid.html
+    │  hunter.html
+    │  icon.png
+    │  icon_hover.png
+    │  index.htm
+    │  mage.html
+    │  paladin.html
+    │  priest.html
+    │  rogue.html
+    │  shaman.html
+    │  warlock.html
+    │  warrior-zh.html
+    │  warrior.html
+    │  webcopy-origin.txt
+    │  
+    ├─arrows
+    │      down.png
+    │      down2.png
+    │      left.png
+    │      left2.png
+    │      right.png
+    │      right2.png
+    │      rightdown.png
+    │      rightdown2.png
+    │      
+    ├─bgs
+    │      anniversary.webp
+    │      anomalus.webp
+    │      balor.webp
+    │      druid.webp
+    │      gm.webp
+    │      gnarlmoon.webp
+    │      grimbatol.webp
+    │      hunter.webp
+    │      lunatic.webp
+    │      northwind.webp
+    │      paladin_warlock.webp
+    │      priest.webp
+    │      rogue_mage.webp
+    │      shaman_warrior.webp
+    │      
+    ├─error
+    │      400.html
+    │      403.html
+    │      404.html
+    │      500.html
+    │      501.html
+    │      502.html
+    │      503.html
+    │      504.html
+    │      505.html
+    │      506.html
+    │      507.html
+    │      509.html
+    │      510.html
+    │      index.html
+    │      
+    ├─gh
+    │  └─lipis
+    │      └─flag-icons
+    │          └─flags
+    │              └─4x3
+    │                      gb.svg
+    │                      
+    ├─icons
+    │      ability_ambush.png
+    │      ability_backstab.png
+    │      ability_bullrush.png
+    │      ability_creature_cursed_02.png
+    │      ability_creature_poison_06.png
+    │      ability_criticalstrike.png
+    │      ability_defend.png
+    │      ability_devour.png
+    │      ability_druid_bash.png
+    │      ability_druid_berserk.png
+    │      ability_druid_demoralizingroar.png
+    │      ability_druid_disembowel.png
+    │      ability_druid_eclipse.png
+    │      ability_druid_ferociousbite.png
+    │      ability_druid_galewinds.png
+    │      ability_druid_manatree.png
+    │      ability_druid_owlkinfrenzy.png
+    │      ability_druid_rake.png
+    │      ability_druid_ravage.png
+    │      ability_druid_treeoflife.png
+    │      ability_dualwield.png
+    │      ability_ensnare.png
+    │      ability_eyeoftheowl.png
+    │      ability_fiegndead.png
+    │      ability_ghoulfrenzy.png
+    │      ability_golemstormbolt.png
+    │      ability_golemthunderclap.png
+    │      ability_gouge.png
+    │      ability_hibernation.png
+    │      ability_hunter_aspectofthemonkey.png
+    │      ability_hunter_beastsoothe.png
+    │      ability_hunter_beasttaming.png
+    │      ability_hunter_disarmingshot.png
+    │      ability_hunter_goforthethroat.png
+    │      ability_hunter_improvedtracking.png
+    │      ability_hunter_killcommand.png
+    │      ability_hunter_lockandload.png
+    │      ability_hunter_mendpet.png
+    │      ability_hunter_pet_bear.png
+    │      ability_hunter_pet_cat.png
+    │      ability_hunter_pet_hyena.png
+    │      ability_hunter_quickshot.png
+    │      ability_hunter_swiftstrike.png
+    │      ability_impalingbolt.png
+    │      ability_kick.png
+    │      ability_mage_firestarter.png
+    │      ability_marksmanship.png
+    │      ability_mount_jungletiger.png
+    │      ability_paladin_judgementblue.png
+    │      ability_parry.png
+    │      ability_physical_taunt.png
+    │      ability_piercedamage.png
+    │      ability_poisons.png
+    │      ability_racial_avatar.png
+    │      ability_racial_bloodrage.png
+    │      ability_racial_cannibalize.png
+    │      ability_rogue_ambush.png
+    │      ability_rogue_envelopingshadows.png
+    │      ability_rogue_eviscerate.png
+    │      ability_rogue_feigndeath.png
+    │      ability_rogue_garrote.png
+    │      ability_rogue_shadowstep.png
+    │      ability_rogue_slicedice.png
+    │      ability_rogue_sprint.png
+    │      ability_rogue_surpriseattack.png
+    │      ability_rogue_trip.png
+    │      ability_sap.png
+    │      ability_searingarrow.png
+    │      ability_shaman_stormstrike.png
+    │      ability_shaman_watershield.png
+    │      ability_stealth.png
+    │      ability_thunderbolt.png
+    │      ability_thunderclap.png
+    │      ability_townwatch.png
+    │      ability_upgrademoonglaive.png
+    │      ability_warlock_demonicpower.png
+    │      ability_warlock_power_overwhelming.png
+    │      ability_warrior_battleshout.png
+    │      ability_warrior_challange.png
+    │      ability_warrior_charge.png
+    │      ability_warrior_commandingshout.png
+    │      ability_warrior_decisivestrike.png
+    │      ability_warrior_disarm.png
+    │      ability_warrior_improveddisciplines.png
+    │      ability_warrior_innerrage.png
+    │      ability_warrior_intervene.png
+    │      ability_warrior_reprisal.png
+    │      ability_warrior_revenge.png
+    │      ability_warrior_riposte.png
+    │      ability_warrior_savageblow.png
+    │      ability_warrior_shieldbash.png
+    │      ability_warrior_shieldmastery.png
+    │      ability_warrior_shieldwall.png
+    │      ability_warrior_stalwartprotector.png
+    │      ability_warrior_strengthofarms.png
+    │      ability_warrior_swordandboard.png
+    │      ability_warrior_victoryrush.png
+    │      ability_warrior_warcry.png
+    │      ability_warrior_weaponmastery.png
+    │      ability_whirlwind.png
+    │      btnholyscriptures.png
+    │      btnorbofdepths.png
+    │      class_druid.png
+    │      class_hunter.png
+    │      class_mage.png
+    │      class_paladin.png
+    │      class_priest.png
+    │      class_rogue.png
+    │      class_shaman.png
+    │      class_warlock.png
+    │      class_warrior.png
+    │      earthshaker_slam_16.png
+    │      garrison_weaponupgrade.png
+    │      inv_axe_09.png
+    │      inv_enchant_essenceeternallarge.png
+    │      inv_enchant_essencemagiclarge.png
+    │      inv_gauntlets_04.png
+    │      inv_hammer_04.png
+    │      inv_jewelry_talisman_fireice.png
+    │      inv_mace_01.png
+    │      inv_misc_bone_09.png
+    │      inv_misc_book_06.png
+    │      inv_misc_book_07.png
+    │      inv_misc_book_08.png
+    │      inv_misc_gem_emerald_01.png
+    │      inv_misc_herb_02.png
+    │      inv_misc_herb_16.png
+    │      inv_misc_key_03.png
+    │      inv_misc_map_01.png
+    │      inv_misc_monsterclaw_03.png
+    │      inv_misc_monsterclaw_04.png
+    │      inv_misc_pelt_bear_03.png
+    │      inv_misc_quiver_03.png
+    │      inv_relics_idolofhealth.png
+    │      inv_relics_idolofrejuvenation.png
+    │      inv_shield_05.png
+    │      inv_shield_06.png
+    │      inv_shoulder_30.png
+    │      inv_spear_07.png
+    │      inv_staff_01.png
+    │      inv_sword_02.png
+    │      inv_sword_05.png
+    │      inv_sword_17.png
+    │      inv_sword_20.png
+    │      inv_sword_27.png
+    │      inv_sword_31.png
+    │      inv_sword_48.png
+    │      inv_throwingknife_01.png
+    │      inv_throwingknife_05.png
+    │      inv_throwingknife_06.png
+    │      inv_wand_01.png
+    │      inv_weapon_rifle_06.png
+    │      inv_weapon_shortblade_05.png
+    │      inv_weapon_shortblade_14.png
+    │      master_strike_1.png
+    │      racial_troll_berserk.png
+    │      spell_arcane_blast.png
+    │      spell_arcane_blink.png
+    │      spell_arcane_manatap.png
+    │      spell_arcane_portaldarnassus.png
+    │      spell_arcane_starfire.png
+    │      spell_cloaked_in_shadows_2.png
+    │      spell_coordinated_assault_1.png
+    │      spell_double_dose_3.png
+    │      spell_fire_elementaldevastation.png
+    │      spell_fire_enchantweapon.png
+    │      spell_fire_fire.png
+    │      spell_fire_firearmor.png
+    │      spell_fire_fireball.png
+    │      spell_fire_fireball02.png
+    │      spell_fire_flamebolt.png
+    │      spell_fire_flameshock.png
+    │      spell_fire_flametounge.png
+    │      spell_fire_flare.png
+    │      spell_fire_frostresistancetotem.png
+    │      spell_fire_immolation.png
+    │      spell_fire_incinerate.png
+    │      spell_fire_lavaspawn.png
+    │      spell_fire_masterofelements.png
+    │      spell_fire_meteorstorm.png
+    │      spell_fire_sealoffire.png
+    │      spell_fire_selfdestruct.png
+    │      spell_fire_soulburn.png
+    │      spell_fire_volcano.png
+    │      spell_fire_windsofwoe.png
+    │      spell_frost_chillingblast.png
+    │      spell_frost_freezingbreath.png
+    │      spell_frost_frost.png
+    │      spell_frost_frostarmor.png
+    │      spell_frost_frostblast.png
+    │      spell_frost_frostbolt.png
+    │      spell_frost_frostbolt02.png
+    │      spell_frost_frostshock.png
+    │      spell_frost_frostward.png
+    │      spell_frost_glacier.png
+    │      spell_frost_iceshard.png
+    │      spell_frost_iceshock.png
+    │      spell_frost_icestorm.png
+    │      spell_frost_manarecharge.png
+    │      spell_frost_stun.png
+    │      spell_frost_windwalkon.png
+    │      spell_frost_wisp.png
+    │      spell_frost_wizardmark.png
+    │      spell_holy_ashestoashes.png
+    │      spell_holy_auramastery.png
+    │      spell_holy_auraoflight.png
+    │      spell_holy_blessedrecovery.png
+    │      spell_holy_blessingofagility.png
+    │      spell_holy_blessingofprotection.png
+    │      spell_holy_blessingofstamina.png
+    │      spell_holy_blessingofstrength.png
+    │      spell_holy_crusaderstrike.png
+    │      spell_holy_devotion.png
+    │      spell_holy_devotionaura.png
+    │      spell_holy_dispelmagic.png
+    │      spell_holy_elunesgrace.png
+    │      spell_holy_excorcism_02.png
+    │      spell_holy_eyeforaneye.png
+    │      spell_holy_greaterheal.png
+    │      spell_holy_heal.png
+    │      spell_holy_heal02.png
+    │      spell_holy_healingfocus.png
+    │      spell_holy_holybolt.png
+    │      spell_holy_holynova.png
+    │      spell_holy_holysmite.png
+    │      spell_holy_innerfire.png
+    │      spell_holy_layonhands.png
+    │      spell_holy_magicalsentry.png
+    │      spell_holy_mindsooth.png
+    │      spell_holy_mindvision.png
+    │      spell_holy_persuitofjustice.png
+    │      spell_holy_power.png
+    │      spell_holy_powerwordshield.png
+    │      spell_holy_prayerofhealing.png
+    │      spell_holy_purify.png
+    │      spell_holy_redemption.png
+    │      spell_holy_renew.png
+    │      spell_holy_restoration.png
+    │      spell_holy_resurrection.png
+    │      spell_holy_retribution.png
+    │      spell_holy_retributionaura.png
+    │      spell_holy_revivechampion.png
+    │      spell_holy_righteousfury.png
+    │      spell_holy_sealofblood.png
+    │      spell_holy_sealoffury.png
+    │      spell_holy_sealofmight.png
+    │      spell_holy_sealofprotection.png
+    │      spell_holy_sealofsalvation.png
+    │      spell_holy_sealofwrath.png
+    │      spell_holy_searinglight.png
+    │      spell_holy_searinglightpriest.png
+    │      spell_holy_spellwarding.png
+    │      spell_holy_spiritualguidence.png
+    │      spell_holy_summonlightwell.png
+    │      spell_holy_surgeoflight.png
+    │      spell_holy_unyieldingfaith.png
+    │      spell_holy_vindication.png
+    │      spell_holy_wordfortitude.png
+    │      spell_hunter_exoticmunitions_poisoned.png
+    │      spell_ice_lament.png
+    │      spell_ice_magicdamage.png
+    │      spell_lacerate_1c.png
+    │      spell_lightning_lightningbolt01.png
+    │      spell_mage_focusingcrystal.png
+    │      spell_magic_lesserinvisibilty.png
+    │      spell_magic_magearmor.png
+    │      spell_nature_abolishmagic.png
+    │      spell_nature_agitatingtotem.png
+    │      spell_nature_ancestralguardian.png
+    │      spell_nature_astralrecalgroup.png
+    │      spell_nature_bloodlust.png
+    │      spell_nature_callstorm.png
+    │      spell_nature_crystalball.png
+    │      spell_nature_earthbindtotem.png
+    │      spell_nature_earthquake.png
+    │      spell_nature_elementalabsorption.png
+    │      spell_nature_enchantarmor.png
+    │      spell_nature_forceofnature.png
+    │      spell_nature_healingtouch.png
+    │      spell_nature_healingwavegreater.png
+    │      spell_nature_healingway.png
+    │      spell_nature_invisibilty.png
+    │      spell_nature_lightning.png
+    │      spell_nature_lightningshield.png
+    │      spell_nature_magicimmunity.png
+    │      spell_nature_manaregentotem.png
+    │      spell_nature_mirrorimage.png
+    │      spell_nature_moonglow.png
+    │      spell_nature_naturesblessing.png
+    │      spell_nature_natureswrath.png
+    │      spell_nature_naturetouchgrow.png
+    │      spell_nature_nullward.png
+    │      spell_nature_protectionformnature.png
+    │      spell_nature_purge.png
+    │      spell_nature_ravenform.png
+    │      spell_nature_regenerate.png
+    │      spell_nature_regeneration.png
+    │      spell_nature_reincarnation.png
+    │      spell_nature_removecurse.png
+    │      spell_nature_resistnature.png
+    │      spell_nature_sentinal.png
+    │      spell_nature_sleep.png
+    │      spell_nature_slow.png
+    │      spell_nature_slowingtotem.png
+    │      spell_nature_spiritarmor.png
+    │      spell_nature_spiritwolf.png
+    │      spell_nature_starfall.png
+    │      spell_nature_stoneclawtotem.png
+    │      spell_nature_stormreach.png
+    │      spell_nature_stranglevines.png
+    │      spell_nature_thunderclap.png
+    │      spell_nature_tranquility.png
+    │      spell_nature_undyingstrength.png
+    │      spell_nature_unyeildingstamina.png
+    │      spell_nature_wispheal.png
+    │      spell_nature_wispsplode.png
+    │      spell_shadow_abominationexplosion.png
+    │      spell_shadow_antishadow.png
+    │      spell_shadow_blackplague.png
+    │      spell_shadow_bloodboil.png
+    │      spell_shadow_burningspirit.png
+    │      spell_shadow_callofbone.png
+    │      spell_shadow_chilltouch.png
+    │      spell_shadow_corpseexplode.png
+    │      spell_shadow_curseofachimonde.png
+    │      spell_shadow_curseofmannoroth.png
+    │      spell_shadow_curseofsargeras.png
+    │      spell_shadow_curseoftounges.png
+    │      spell_shadow_darkritual.png
+    │      spell_shadow_deathpact.png
+    │      spell_shadow_deathscream.png
+    │      spell_shadow_detectinvisibility.png
+    │      spell_shadow_detectlesserinvisibility.png
+    │      spell_shadow_fingerofdeath.png
+    │      spell_shadow_fumble.png
+    │      spell_shadow_gathershadows.png
+    │      spell_shadow_grimward.png
+    │      spell_shadow_haunting.png
+    │      spell_shadow_impphaseshift.png
+    │      spell_shadow_improvedvampiricembrace.png
+    │      spell_shadow_lifedrain.png
+    │      spell_shadow_lifedrain02.png
+    │      spell_shadow_manaburn.png
+    │      spell_shadow_metamorphosis.png
+    │      spell_shadow_of_death_3b.png
+    │      spell_shadow_possession.png
+    │      spell_shadow_psychicscream.png
+    │      spell_shadow_ragingscream.png
+    │      spell_shadow_requiem.png
+    │      spell_shadow_scourgebuild.png
+    │      spell_shadow_shadetruesight.png
+    │      spell_shadow_shadowbolt.png
+    │      spell_shadow_shadowform.png
+    │      spell_shadow_shadowpact.png
+    │      spell_shadow_shadowward.png
+    │      spell_shadow_shadowworddominate.png
+    │      spell_shadow_shadowwordpain.png
+    │      spell_shadow_siphonmana.png
+    │      spell_shadow_soulleech.png
+    │      spell_shadow_soulleech_1.png
+    │      spell_shadow_summonimp.png
+    │      spell_shadow_summonsuccubus.png
+    │      spell_shadow_teleport.png
+    │      spell_shadow_twilight.png
+    │      spell_shadow_unholyfrenzy.png
+    │      spell_shadow_unsummonbuilding.png
+    │      spell_shadow_vampiricaura.png
+    │      spell_shaman_spiritlink.png
+    │      spell_shaman_tidalwaves.png
+    │      spell_smoke_bomb_5.png
+    │      trade_archaeology_highbornesoulmirror.png
+    │      trade_survival.png
+    │      
+    └─_next
+        └─static
+            ├─chunks
+            │  │  289-5cb1db75c0040be2.js
+            │  │  294-1a3969672cb019e5.js
+            │  │  568-0de3ec61eaff1020.js
+            │  │  87c73c54-be837ab1b1db7a80.js
+            │  │  891cff7f-58b6c74962a6ae27.js
+            │  │  907-283604c8054f6983.js
+            │  │  968-0112fed5c206d4b8.js
+            │  │  main-app-b22f8eb0ce7648a3.js
+            │  │  polyfills-42372ed130431b0a.js
+            │  │  webpack-24ed39f7fdf6a97a.js
+            │  │  
+            │  └─app
+            │      └─[locale]
+            │          │  error-9e53f4a8754795fa.js
+            │          │  page-c8dbb22c4287e627.js
+            │          │  
+            │          └─[class]
+            │                  page-ce9cdb06bf9c66c9.js
+            │                  
+            ├─css
+            │      f60c7d77082be0b0.css
+            │      
+            └─media
+                    0d5af134000e2351-s.p.otf
+                    5d9fe33e25fef294-s.p.otf
+                    
